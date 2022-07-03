@@ -1,2 +1,2 @@
-# CIS226-Vending-Machine
-Bonus Project
+# CIS226
+Bonus Project - Vending Machine
